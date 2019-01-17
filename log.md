@@ -11,6 +11,7 @@
 **Today's Progress**:Solved more javascript coding challenges on freecodecamp
 
 **Thoughts:**  Learning  Basics Concepts of Javascript.
+
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
 
