@@ -14,4 +14,11 @@
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
+### Day 3: January 18, 2019 
+
+**Today's Progress**:Solved javascript coding challenges on freecodecamp
+
+**Thoughts:**  Learnt Arrays,function,If else,conditional statement Concepts in Javascript.
+
+**Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
