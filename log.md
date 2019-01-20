@@ -22,3 +22,11 @@
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
+### Day 4: January 19, 2019 
+
+**Today's Progress**:Solved javascript coding challenges on freecodecamp
+
+**Thoughts:**  Learnt switch case,conditional statement Concepts in Javascript.
+
+**Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
+
