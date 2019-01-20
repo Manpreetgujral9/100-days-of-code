@@ -30,3 +30,11 @@
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
+### Day 5: January 20, 2019 
+
+**Today's Progress**:Solved javascript coding challenges on freecodecamp a little more rest to complete finally javascript.
+
+**Thoughts:**  Learnt Objects,accessing objects,Loops in javascript.
+
+**Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
+
