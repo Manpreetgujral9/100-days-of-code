@@ -38,3 +38,11 @@
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
+### Day 6: January 21, 2019 
+
+**Today's Progress**:Solved all javascript coding challenges on freecodecamp.
+
+**Thoughts:**  Finally I learnt a Programming Language in 6 days of struggle .But Happy now I know this and Happy with 100DaysOfCode Journey. 
+
+**Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
+
