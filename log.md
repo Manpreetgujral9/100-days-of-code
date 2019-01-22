@@ -46,3 +46,11 @@
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
+### Day 7: January 22, 2019 
+
+**Today's Progress**:Started ES6 coding challenges on freecodecamp.
+
+**Thoughts:**  Started Learning ES6 , New Topic for me , Happy to learn this. 
+
+**Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
+
