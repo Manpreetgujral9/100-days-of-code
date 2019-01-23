@@ -54,3 +54,11 @@
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
+### Day 8: January 23, 2019 
+
+**Today's Progress**:Second Day of understanding ES6 coding challenges on freecodecamp.
+
+**Thoughts:**  Started Learning ES6 , New Topic for me , Looking for another resources that helps me to understand it.. 
+
+**Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
+
