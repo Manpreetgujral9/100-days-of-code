@@ -62,3 +62,11 @@
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
+### Day 9: January 24, 2019 
+
+**Today's Progress**:Third Day of understanding ES6 coding challenges on freecodecamp.
+
+**Thoughts:** ES6 challenges are quite more complex so, it will taking time to understand the concept.
+
+**Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
+
