@@ -70,3 +70,12 @@
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
+### Day 10: January 25, 2019 
+
+**Today's Progress**:I was Busy because of an interview , I just solve few of challenges.
+
+**Thoughts:** Exhausted because I wake up early and busy whole day.
+
+
+
+
