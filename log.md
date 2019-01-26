@@ -76,6 +76,12 @@
 
 **Thoughts:** Exhausted because I wake up early and busy whole day.
 
+### Day 11: January 26, 2019 
 
+**Today's Progress**:Today I started and completed all the debugging coding challenges on freecodecamp.
+
+**Thoughts:** Feeling Great, Clarified my doubts regarding Debugging and Testing.
+
+**Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
 
