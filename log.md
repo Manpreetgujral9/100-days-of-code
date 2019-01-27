@@ -84,4 +84,9 @@
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
 
+### Day 12: January 27, 2019 
+
+**Today's Progress**:Today I have started creating a project on my portfolio by using all the stuffs that i've learnt .
+
+
 
