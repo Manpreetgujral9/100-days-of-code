@@ -88,7 +88,7 @@
 
 **Today's Progress**:Today I have started creating a project on my portfolio by using all the stuffs that i've learnt .
 
-### Day 13: January 28, 
+### Day 13: January 28, 2019
 **Today's Progress**:Started Worked on project on my portfolio and Learn to use git commands .Clarified all my doubts regarding Git and Github. 
 
 
