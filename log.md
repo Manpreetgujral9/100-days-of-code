@@ -94,4 +94,7 @@
 ### Day 14: January 29, 2019
 **Today's Progress**: Worked on project on my portfolio and Made a Header .Busy in Preparation of interviews stuff. 
 
+### Day 15: January 30, 2019
+**Today's Progress**:Today , Completed Half of the project. Thought about the changes I can make on it.
+
 
