@@ -98,6 +98,10 @@
 **Today's Progress**:Today , Completed Half of the project. Thought about the changes I can make on it.
 
 ### Day 16: January 31, 2019
-**Today's Progress**:I have completed my major portion of the project,Will share soon on github. Trying to adding Animation.js in the project but it gonna be complicated to understand little bit.So, Working on it. 
+**Today's Progress**:I have completed my major portion of the project,Will share soon on github. Trying to adding Animation.js in the project but it gonna be complicated to understand little bit.So, Working on it.
+
+### Day 17: February 1, 2019
+**Today's Progress**:Today I added animation.js in my project solved all the errors came yesterday.
+
 
 
