@@ -61,6 +61,7 @@
 **Thoughts:**  Started Learning ES6 , New Topic for me , Looking for another resources that helps me to understand it.. 
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
+bhdsahghbasJsjfjknsa 
 
 ### Day 9: January 24, 2019 
 
