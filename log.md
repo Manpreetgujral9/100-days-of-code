@@ -61,7 +61,7 @@
 **Thoughts:**  Started Learning ES6 , New Topic for me , Looking for another resources that helps me to understand it.. 
 
 **Link to my Work:** [Link](https://www.freecodecamp.org/manpreetgujral9)
-bhdsahghbasJsjfjknsa 
+
 
 ### Day 9: January 24, 2019 
 
@@ -103,6 +103,9 @@ bhdsahghbasJsjfjknsa
 
 ### Day 17: February 1, 2019
 **Today's Progress**:Today I added animation.js in my project solved all the errors came yesterday.
+
+### Day 18: February 2, 2019
+**Today's Progress**:Working on my portfolio project.
 
 
 
