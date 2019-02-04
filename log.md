@@ -107,5 +107,11 @@
 ### Day 18: February 2, 2019
 **Today's Progress**:Working on my portfolio project.
 
+### Day 19: February 3, 2019
+**Today's Progress**:Working on my portfolio project.
+
+### Day 20: February 4, 2019
+**Today's Progress**:Working on my portfolio project.
+
 
 
