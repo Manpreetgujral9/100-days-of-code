@@ -116,5 +116,8 @@
 ### Day 21: February 5, 2019
 **Today's Progress**:Working on my portfolio project.
 
+### Day 22: February 6, 2019
+**Today's Progress**:Working on my portfolio project.
+
 
 
