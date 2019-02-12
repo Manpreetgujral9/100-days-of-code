@@ -128,3 +128,6 @@
 ### Day 25: February 9, 2019
 **Today's Progress**:Working on my portfolio project.
 
+### Day 26: February 12, 2019
+**Today's Progress**:Working on my portfolio project.
+
